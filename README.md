@@ -26,7 +26,7 @@ go to our folder and in terminal
 npm start
 ```
 Now our applicaion is ready  to use\
-open chrome and goto
+open browser and goto
 http://localhost:8081/
 
 Happy day.
